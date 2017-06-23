@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2lab\test;
+namespace yii2module\test;
 
 use yii\base\Module as YiiModule;
 

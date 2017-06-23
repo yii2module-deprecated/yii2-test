@@ -1,10 +1,10 @@
 <?php
 
-namespace yii2lab\test\controllers;
+namespace yii2module\test\controllers;
 
 use Yii;
 use woop\extension\console\yii\console\Controller;
-use yii2lab\test\helpers\Test;
+use yii2module\test\helpers\Test;
 use woop\extension\console\helpers\input\Question;
 use woop\extension\console\helpers\Output;
 

@@ -1,5 +1,5 @@
 {
-    "name": "yii2lab/yii2-test",
+    "name": "yii2module/yii2-test",
     "type": "yii2-extension",
     "authors": [
         {
@@ -10,7 +10,7 @@
 	"minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
-             "yii2lab\\test\\": "src"
+             "yii2module\\test\\": "src"
          }
     },
     "require": {}

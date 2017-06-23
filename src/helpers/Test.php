@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2lab\test\helpers;
+namespace yii2module\test\helpers;
 
 use Yii;
 use woop\foundation\yii\helpers\FileHelper;
