@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2module\test\controllers;
+namespace yii2module\test\console\controllers;
 
 use Yii;
 use yii2lab\console\yii\console\Controller;
